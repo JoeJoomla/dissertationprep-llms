@@ -1,0 +1,4 @@
+# https://dissertationprep.com - LLM Context Data
+
+Generated on: (pending - run npm run publish from dissertationprep-tools to populate)
+This is a placeholder file. Run the Firecrawl generator to populate with actual content.
