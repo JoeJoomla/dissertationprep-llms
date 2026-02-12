@@ -1,4 +1,602 @@
 # https://dissertationprep.com - LLM Context Data
 
-Generated on: (pending - run npm run publish from dissertationprep-tools to populate)
-This is a placeholder file. Run the Firecrawl generator to populate with actual content.
+Generated on: 2026-02-12T21:52:49.419Z
+Total pages: 94
+For full article content, see: llms-full.txt
+
+---
+
+## Page 1: Coaching, Editing and Mentoring Help for the Dissertation – DissertationPrep
+URL: https://dissertationprep.com
+Description: Dissertations are made easier with help from your own personal coach. Move forward with your dissertation proposal no matter what stage you are at. At Dissertation Prep you will find help for dissertation editing through coaching and mentoring. Services and advice are available for all your dissertation prep needs.
+
+# Welcome to Dissertation Prep
+
+---
+
+## Page 2: Stop Writing Without a “Why”: Give Your Literature Review Direction – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/stop-writing-without-a-why-give-your-literature-review-direction
+Date: 2025-12-09
+Description: Transform your PhD literature review from aimless summaries to a strategic direction. Learn 4 proven strategies to identify your research gap and build a purposeful dissertation argument.
+---
+
+## Page 3: Blog – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog
+Date: 2025-12-09
+
+# Blog
+
+---
+
+## Page 4: Stop Writing a Book Report! Start Synthesizing Your Literature Review – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/stop-writing-a-book-report-start-synthesizing-your-literature-review
+Date: 2025-12-02
+Description: Stop summarizing studies like a book report. Learn how to synthesize your literature review with confidence and finally satisfy your dissertation committee.
+---
+
+## Page 5: Struggling with Your Dissertation? Here’s How to Succeed with Expert G – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/struggling-with-your-dissertation-here-s-how-to-succeed-with-expert-guidance
+Date: 2025-01-14
+Description: By Nicole Dhanraj, Ph.D. Does your dissertation feel like an insurmountable mountain? You’re not alone. Thousands of students face roadblocks during this journey, feeling stuck, overwhelmed, and unsure of their next step. But here’s the truth: with the right support and a clear plan, you can conquer your dissertation a
+---
+
+## Page 6: Mastering Your Doctoral Defense as an ESL Student – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/mastering-your-doctoral-defense-as-an-esl-student
+Date: 2024-12-16
+Description: By Nicole Dhanraj, Ph.D. Embarking on the doctoral research journey as an English as a Second Language (ESL) Student is a testament to your dedication and hard work. It can be challenging, but the rewards are significant. Your groundbreaking research and unique insights deserve to be communicated with clarity and impac
+---
+
+## Page 7: Dissertation Success: The Role of Editing Services for English as a Se – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/dissertation-success-the-role-of-editing-services-for-english-as-a-second-language-esl-students
+Date: 2024-10-01
+Description: Embarking on the doctoral research journey as an ESL student is a testament to your dedication and hard work. It can be challenging, but the rewards are significant. Your groundbreaking research and unique insights deserve to be communicated with clarity and impact.
+---
+
+## Page 8: Mastering Your Dissertation Topic: 3 Proven Strategies for PhD Success – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/mastering-your-dissertation-topic-3-proven-strategies-for-phd-success
+Date: 2024-09-24
+Description: By Nicole Dhanraj, Ph.D. Choosing a dissertation topic can feel overwhelming—like navigating an endless maze. However, with the right strategies, you can turn this daunting doctoral task into an exciting opportunity for groundbreaking research. Here’s how to master the dissertation topic selection process and prepare f
+---
+
+## Page 9: Student Debt: Avoiding, Minimizing, and Paying – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/student-debt-avoiding-minimizing-and-paying
+Date: 2024-09-17
+Description: There has been much press recently regarding the student debt crisis. One measure of this crisis is the Debt-to-Income Ratio as it relates to student loan debt. According to Earnest, the average doctoral student comes away with $103k to $130k in student debt. Of course, as an average, some debt balance
+---
+
+## Page 10: Open (Free) Research Databases, Journals, and Websites – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/open-free-research-databases-journals-and-websites
+Date: 2024-09-10
+Description: Many researchers do not have access to paid library databases for multiple reasons, including a traditional college without online database access or a pre-enrollment research and proposal development for grants, scholarships, and/or admissions. Regardless of the reason, students and researchers often
+---
+
+## Page 11: The Oral Defense: Learner Know Thy Research! – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/the-oral-defense-learner-know-thy-research
+Date: 2024-08-27
+Description: By Dr Lonny Ness If you are at the oral defense stage for your dissertation/thesis/doctoral study! - Congratulations The oral defense is much feared, yet desired, for most doctoral students as it marks the end of the road. However, the oral defense also possibly represents the biggest challenge and test culminating one
+---
+
+## Page 12: Help - I Can't Afford an Editor! – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/help-i-cant-afford-an-editor
+Date: 2024-08-20
+Description: By Dr Lonny Ness Have you been in this situation, where your dissertation chair/advisor/supervisor/committee tells you that you need to hire an editor (and will not approve your paper until you do), but you are already low on funds, or in debt due to your academic and/or living expenses? There are options, and hope! To
+---
+
+## Page 13: PhD Burnout: Causes and Remedies – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/phd-burnout-causes-and-remedies
+Date: 2024-08-13
+Description: Burnout for Doctoral learners is real! Our dissertation prep coaches can help. Created by 20+ year doctor mentor Dr. Dani Babb, our small business helps doctoral learners get and stay on track!
+---
+
+## Page 14: Qualitative, Descriptive, versus Quantitative Data – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/qualitative-descriptive-versus-quantitative-data
+Date: 2024-08-06
+Description: Our statisticians help doctoral learners with their statistics through their dissertation process! Stats may be used for quantitative data analysis, but is not used exclusively for this purpose. Descriptive data used for quantitative analysis is known as descriptive quantitative research approach...
+---
+
+## Page 15: The Doctoral Journey: The Road to Oz – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/the-doctoral-journey-the-road-to-oz
+Date: 2024-07-23
+Description: The doctoral journey is a new experience for students. Do you question why 36- 51% of students do not complete their doctorate? We help doctoral students with superb coaching and editing dissertations at Dissertation Prep
+---
+
+## Page 16: Dissertation Research Questions: Do’s and Don’ts – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/dissertation-research-questions-do-s-and-don-ts
+Date: 2024-07-16
+Description: The do’s and dont’s of dissertation research questions! Some key tips to formulating a great dissertation research question. At Dissertation Prep, we help coach doctoral students to success.
+---
+
+## Page 17: Why a Doctorate? Part 2 – Pros and Conclusion – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/why-a-doctorate-part-2-pros-and-conclusion
+Date: 2024-07-09
+Description: There are many downsides to earning a doctoral degree, whether you want to earn a PhD, DBA, EdD or another professional degree. However, with good coaching and editing services, we can help mitigate those downsides to improve your overall experience! Studies show greater earning potential and lifelong job stability.
+---
+
+## Page 18: Plagiarism versus Originality: Causes and Solutions – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/plagiarism-versus-originality-causes-and-solutions
+Date: 2024-07-09
+Description: Plagiarism versus Originality: Causes and Solutions for doctoral students working on a dissertation. The doctoral study must be free from plagiarism and while tools can help, our editors help doctoral students avoid plagiarism and write with originality!
+---
+
+## Page 19: Dissertation Topic Selection: A Critical Choice Toward Doctoral Succes – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/dissertation-topic-selection-a-critical-choice-toward-doctoral-success-or-failure
+Date: 2024-07-02
+Description: Dissertation Prep helps doctoral students select a dissertation topic to help set students up for success. Our coaches can start from the getgo to help ensure your ease in selecting a dissertation topic and moving forward in your study.
+---
+
+## Page 20: Using Editing Software vs Hiring an Editor – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/using-editing-software-vs-hiring-an-editor
+Date: 2024-06-25
+Description: Many doctoral students rely on editing software for their dissertation. is it reliable? do you need an editor? we provide dissertation editing services as well! this article discusses the pros and cons of software for editing.
+---
+
+## Page 21: Dissertation APA Formatting Basics - Version 6 – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/dissertation-apa-formatting-basics-version-6
+Date: 2024-06-18
+Description: Dissertation Prep helps doctoral students edit and format in APA version 6 and 7. Here are some of the basics of APA 6 formatting, with much more to learn!
+---
+
+## Page 22: Why a Doctorate? Part 1 - Introduction and Downsides – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/why-a-doctorate-part-1-introduction-and-cons
+Date: 2024-06-10
+Description: There are many downsides to earning a doctoral degree, whether you want to earn a PhD, DBA, EdD or another professional degree. However, with good coaching and editing services, we can help mitigate those downsides to improve your overall experience! Studies show greater earning potential and lifelong job stability.
+---
+
+## Page 23: Preventing Burnout: A Doctoral Student's Guide to Ensuring Your Sanity – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/preventing-burnout-a-doctoral-students-guide-to-ensuring-your-sanity
+Date: 2024-05-16
+Description: "Preventing Burnout: A Doctoral Student's Guide" advises on managing time, optimizing resources, constructing support systems, and upholding self-care to ensure success in handling the dissertation process and avoiding burnout during PhD studies.
+---
+
+## Page 24: Why You Should Consider a Pilot Study: Avoiding Research Roadblocks – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/why-you-should-consider-a-pilot-study-avoiding-research-roadblocks
+Date: 2024-03-19
+Description: Discover the role of pilot studies in qualitative research on Dissertation Prep with Nicole Dhanraj's article. Learn how pilot studies refine research tools, identify biases, and enhance overall research validity.
+---
+
+## Page 25: Defining Focus: Strategies for a Strong Dissertation Problem Statement – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/defining-focus-strategies-for-a-strong-dissertation-problem-statement
+Date: 2024-03-11
+Description: Discover how to craft a strong dissertation problem statement with our guide. Use our three-step process to identify your research area, explore gaps, and refine your problem. Ideal for students across disciplines.
+---
+
+## Page 26: The Best Dissertation is a Done Dissertation. (And How to Get There!) – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/the-best-dissertation-is-a-done-dissertation-and-how-to-get-there
+Date: 2023-04-25
+Description: Common issues faced by graduate students when writing a dissertation are fear of failure, procrastination, lack of support, and perfectionism. To overcome these obstacles, focus on progress, establish a writing routine, seek support, and remember that failure is a natural part of the learning process.
+---
+
+## Page 27: Distinguishing Between a Theoretical and Conceptual Framework in a Dis – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/distinguishing-between-a-theoretical-and-conceptual-framework-in-a-dissertation
+Date: 2023-04-18
+Description: This article explains the difference between theoretical and conceptual frameworks for students and mentors in the research process. A theoretical framework provides a broad set of principles, concepts, and assumptions that guide data collection, analysis, and interpretation. A conceptual framework is more specific.
+---
+
+## Page 28: 6 Tools Used to Identify Themes in Qualitative Research – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/6-tools-used-to-identify-themes-in-qualitative-research
+Date: 2023-04-12
+Description: Qualitative dissertation research involves the collection and analysis of non-numerical data, such as interviews, observations, and open-ended survey responses. One of the key steps in qualitative research is to identify themes that emerge from the data you have collected. Our coaches and mentors can help you with this
+---
+
+## Page 29: 5 Tips for Writing a Successful Dissertation - Infographic – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/5-tips-for-writing-a-successful-dissertation-infographic
+Date: 2023-03-24
+Description: Writing a successful dissertation requires attention to context, research topics, well defined research goals and objectives, proper grammar and strict adherence to APA formatting requirements.
+---
+
+## Page 30: Quantitative or Qualitative Dissertation? Advice to Help you Choose! – DissertationPrep
+URL: https://dissertationprep.com/blogs/news/quantitative-or-qualitative-dissertation-advice-to-help-you-choose
+Date: 2023-03-21
+Description: When conducting research for your dissertation, it's important to choose the appropriate methodology to align with your research question and goals. The two most common methodologies are qualitative and quantitative research. We are here to help help you choose the appropriate methodology.
+---
+
+## Page 31: Tips to Acing a Compelling Abstract for a Dissertation! – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/tips-to-acing-a-compelling-abstract-for-a-dissertation
+Date: 2023-03-07
+Description: A compelling abstract is vital to your dissertation. An abstract should provide a concise and clear overview of the main points and arguments of your dissertation. We can assist you in writing your abstract through our coaching or editing services!
+---
+
+## Page 32: ABD - Should Doctoral Candidates Use This Common Designation? – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/abd-should-doctoral-candidates-use-this-common-designation
+Date: 2023-02-28
+Description: Many doctoral candidates use ABD on social media or a curriculum vitae. Whether or not a student should use the ABD designation is a matter of personal choice and career goals. If you are considering using the ABD designation, it is essential to understand how it may be perceived by others in your field.
+---
+
+## Page 33: 7 Dissertation Writing Tips to Avoid Common Grammatical Mistakes – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/7-dissertation-writing-tips-to-avoid-common-grammatical-mistakes
+Date: 2023-02-21
+Description: A doctoral dissertation gets rejected by committee members for many reasons. Oftentimes it’s not the content or the topic itself but the writing or writing style. We address dissertation writing tips and common grammatical mistakes to avoid to pass your work by your committee.
+---
+
+## Page 34: Tips To Ace your Doctoral Dissertation Oral Defense – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/tips-to-ace-your-doctoral-dissertation-oral-defense
+Date: 2023-02-14
+Description: Preparing for your doctoral dissertation oral dissertation defense can be a challenging. This is an opportunity for you to demonstrate the mastery of your research. In this article we talk about dissertation defense expectations, tips to ace your dissertation defense as well as common dissertation defense questions.
+---
+
+## Page 35: Prepping for the Dissertation Writing Experience – Tips from a Mentor – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/prepping-for-the-dissertation-writing-experience-tips-from-a-mentor-scholar
+Date: 2023-02-10
+Description: By Nicole Dhanraj, PhD The dissertation or doctoral study experience is unlike any other academic experience. Perhaps you are a rockstar student, aced your projects and assignments, and finished your previous degrees satisfactorily. Maybe you spent some sleepless nights, missed some life events, and had some stress, bu
+---
+
+## Page 36: 5 Things Your Dissertation Committee Chair Will Absolutely Not Do – DissertationPrep
+URL: https://dissertationprep.com/blogs/news/5-things-your-dissertation-committee-chair-will-absolutely-not-do
+Date: 2023-02-07
+Description: Here are the Top 5 things dissertations chairs will not do that frustrates students. I have found that many students have a misconception about these rules of engagement and doctoral mentors. Being aware of the aforementioned tips ahead of time can help you tremendously!
+---
+
+## Page 37: 5 Tips To Fixing Alignment in a Dissertation Proposal: What Is It and – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/5-tips-to-fixing-alignment-in-a-dissertation-proposal-what-is-it-and-how-does-it-work
+Date: 2023-01-31
+Description: One of the most common reasons your dissertation may be sent back to you is for “alignment”. Alignment is important in your research. There are specific ways to check for alignment and arrive directly at the answers to your research in all research methodologies: quantitative, qualitative, or mixed methods.
+---
+
+## Page 38: 5 Things You Can Do to Move Quickly Through Your Dissertation – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/5-things-you-can-do-to-move-quickly-through-your-dissertation
+Date: 2023-01-24
+Description: How to get through your dissertation, faster and quicker. Some schools offer editing services but often these editors are spread thin. Our Doctoral mentors can help you avoid pitfalls. You can work with one of our qualitative or quantitative coaches to help you learn.
+---
+
+## Page 39: The Truth About Online Doctoral Degree Programs and Dissertations – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/top-5-misconceptions-about-online-doctoral-programs-debunked
+Date: 2023-01-16
+Description: There are many false beliefs about online doctoral programs and the universities that run them (i.e., universities that offer doctoral degrees). In this post are 5 Misconceptions from my 20 plus years of experience.
+---
+
+## Page 40: 5 Things to Avoid Saying to a Doctoral Student if You Want to Support – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/5-things-to-avoid-saying-to-a-doctoral-student-if-you-want-to-support-their-work
+Date: 2023-01-10
+Description: The decision to pursue a doctoral degree is one of the most important decisions in a doctoral student's life. To support their work, there are things to avoid saying. Practical advice is not always helpful. Helping students get through their coursework and doctoral dissertation study is crucial for success.
+---
+
+## Page 41: What to Do When Your Committee Members Disagree About Your Dissertatio – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/what-to-do-when-your-committee-members-disagree-about-your-dissertation-work
+Date: 2023-01-02
+Description: Feedback you receive from a dissertation committee member should be clear and actionable. They may tell you what to do to help you through the remainder of the reviews and university review. However, this can frustrate some students. Hire us as coach and mentor to help you sort out the different thoughts and opinions.
+---
+
+## Page 42: 5 Myths Doctoral Students have Thought about Their Dissertation, but L – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/5-myths-doctoral-students-have-thought-about-their-dissertation-but-later-regretted-by-learning-the-hard-way
+Date: 2022-12-28
+Description: Doctoral students have to learn the hard way in their dissertation work. Some have difficulty deciding between a quantitative or a qualitative approach. Our competent coaches can help you choose a methodology well aligned with your study to come up with a workable schedule and shave many months from your doctoral...
+---
+
+## Page 43: PR Newswire | Dissertation Prep Launches to Support & Mentor Doctoral – DissertationPrep
+URL: https://dissertationprep.com/blogs/news/dissertation-prep-launches-to-support-mentor-doctoral-students-from-candidate-to-completion-pr-newswire
+Date: 2022-09-27
+Description: Link to original article: Dissertation Prep Launches to Support &amp; Mentor Doctoral Students From Candidate to Completion! | PR Newswire NEWPORT BEACH, Calif., July 5, 2022 /PRNewswire/ -- Dani Babb, PhD today announced Dissertation Prep, a new service for doctoral students working on their dissertations. The dissert
+---
+
+## Page 44: Exposing 5 Dissertation Myths BEFORE You Begin Your Doctoral Study (Pl – DissertationPrep
+URL: https://dissertationprep.com/blogs/blog/exposing-5-dissertation-myths-before-you-begin-your-doctoral-study-plus-a-freebie
+Date: 2022-09-26
+Description: Over the years, my doctoral students have gone into dissertation studies or doctoral work with many myths about the dissertation process. I started Dissertation Prep to help students get UNstuck and move from the dreaded All But Dissertation (ABD) to Doctor; Candidate to Graduate! Even as a dissertation coach and mento
+---
+
+## Page 45: Methods for Doctoral Studies: Comparison Between Qualitative, Quantita – DissertationPrep
+URL: https://dissertationprep.com/pages/methods-for-doctoral-studies-comparison-between-qualitative-quantitative-and-mixed-methods
+Description: When choosing a methodology for your study, it is important to understand which methodology you will choose. This is driven by the research question. Although you may be tempted to use the methodology you are most comfortable with, this usually is not correct! This infographic on doctoral research methodology compariso
+
+# Methods for Doctoral Studies: Comparison Between Qualitative, Quantitative and Mixed Methods
+
+---
+
+## Page 46: 30 Minute Dissertation Coaching Phone Session | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/products/30-minute-dissertation-coaching-phone-session
+Description: Our 30 minute coaching sessions with mentors helps in statistics, qualitative analysis, quantitative methods, alignment, problem statements, hypothesis testing and more! We can help you with all your dissertation coaching needs including mixed methods, qualitative research and quantitative research.
+
+# 30 Minute Dissertation Coaching Phone Session
+
+---
+
+## Page 47: Testimonial Submission – DissertationPrep
+URL: https://dissertationprep.com/pages/testimonial-submission
+Description: Hear what others are saying about Dissertation Prep! Many have been helped to complete their dissertations and finish ahead of their peers while saving money.
+
+# Testimonial Submission
+
+---
+
+## Page 48: What is the dissertation proposal? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-is-the-dissertation-proposal
+Description: The Dissertation proposal is a comprehensive statement on the extent and nature of the student’s Dissertation research interests. The major components of the proposal are as follows, with some variations across Areas and disciplines: A detailed statement of the problem that is to be studied and the context within which
+---
+
+## Page 49: Qualitative Dissertation Expertise – DissertationPrep
+URL: https://dissertationprep.com/products/qualitative-dissertation-expertise
+Description: Work with a qualitative dissertation coach and expert for a set number of hours to get you over a specific problem. Communicate using whatever method is best for you. Use this doctoral mentor as your coach and guide for your qualitative research. Save tuition and time with a dissertation coach!
+
+# Qualitative Dissertation Expertise
+
+---
+
+## Page 50: Testimonials and Accolades – DissertationPrep
+URL: https://dissertationprep.com/pages/testimonials-and-accolades
+Description: Hear what others are saying about Dissertation Prep.
+---
+
+## Page 51: About the Founder – DissertationPrep
+URL: https://dissertationprep.com/pages/about-us
+Description: I am Dr. Dani Babb, and I founded Dissertation Prep after nearly two decades as a dissertation chair and doctoral mentor. Since 2004, I’ve worked with students at multiple universities and have seen firsthand how easily even strong learners can become stuck—sometimes for months or years—while tuition keeps adding up. M
+
+# About the Founder
+
+---
+
+## Page 52: Video Gallery – DissertationPrep
+URL: https://dissertationprep.com/pages/video-gallery
+Description: dissertation prep video gallery
+
+# Video Gallery
+
+---
+
+## Page 53: Dissertation and Dissertation Proposal Helpful Articles – DissertationPrep
+URL: https://dissertationprep.com/pages/dissertation-and-dissertation-proposal-helpful-articles
+Description: Dissertation Prep Blog. Dissertation and dissertation proposal helpful articles.
+---
+
+## Page 54: Mary Dereshiwsky, PhD | Mentor – DissertationPrep
+URL: https://dissertationprep.com/pages/mary-dereshiwsky-phd-mentor
+Description: I have happily served on over 200 doctoral dissertation committees as chair, co-chair, or member. My students refer to me as a user-friendly source of help with the traditionally “tough stuff” of research, statistics, qualitative analysis, and mixed methods. I have also served on the IRB of two schools as member. I hav
+
+# Mary Dereshiwsky, PhD \| Mentor
+
+---
+
+## Page 55: Video Testimonials – DissertationPrep
+URL: https://dissertationprep.com/pages/video-testimonials
+---
+
+## Page 56: What’s the value of this program? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-s-the-value-of-this-program
+Description: A Dedicated Coach for 12 weeks with expertise in the as a Dissertation mentor who will provide accountability, mentoring, and support. $3,000 value Access to Daily Support in our online Facebook community with access to all of our coaches who will respond to questions daily until your degree is completed! $2,800 value 
+---
+
+## Page 57: Dr. Lonny Ness | Guest Blog Contributor – DissertationPrep
+URL: https://dissertationprep.com/pages/dr-lonny-guest-blog-contributor
+Description: Dr. Lonny, seasoned professional in business administration and IT, now an acclaimed academic. Transitioned from a 27-year corporate career to academia, serving as a professor, dissertation reviewer, and curriculum developer.
+
+# Dr. Lonny Ness \| Guest Blog Contributor
+
+---
+
+## Page 58: Why do we focus only on the proposal and not the other parts of a dissertation? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/why-do-we-focus-only-on-the-proposal-and-not-the-other-parts-of-a-dissertation
+Description: Through our years of experience, we have found that the proposal is the #1 obstacle doctoral students face when writing their dissertation. Therefore, in order to stand out from the competition and exclusively focus our entire operation around helping students achieve one goal (proposal acceptance) we have been able to
+---
+
+## Page 59: Nicole Dhanraj – DissertationPrep
+URL: https://dissertationprep.com/pages/nicole-dhanraj
+Description: Nicole Dhanraj, PhD is an author, dissertation mentor, and a professor who has helped hundreds of students through their doctoral studies.
+---
+
+## Page 60: Free Consultation | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/colleges-and-universities-support
+Description: We offer a free consultation to hard-working, ambitious doctoral students that intend to put in the work to make their degree a reality.
+
+# Providing The Best Support For Doctoral Students
+
+---
+
+## Page 61: Contact Us – DissertationPrep
+URL: https://dissertationprep.com/pages/contact-us
+Description: Do you need to contact us? Please fill out the form and send us an email.
+
+# Contact Us
+
+---
+
+## Page 62: What guarantee do you offer? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-guarantee-do-you-offer
+Description: If this doesn’t work for you, it doesn’t work for us. We don’t think that you will be unhappy, but if it isn’t for you, you’ll definitely know during the first week. By the end of the first 7 days of your program, if you have decided that this program is not for you, then you can cancel your enrollment with a full refu
+---
+
+## Page 63: What happens after the 12 weeks of coaching? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-happens-after-the-12-weeks-of-coaching
+Description: You’ll have the option to extend the program for 4 weeks, 8 weeks, or 12 weeks! Your rate will be less than the original program.
+---
+
+## Page 64: After my proposal is approved, can I get coaching from you for the rest of the dissertation? – DissertationPrep
+URL: https://dissertationprep.com/pages/after-my-proposal-is-approved-can-i-get-coaching-from-you-for-the-rest-of-the-dissertation
+Description: Yes. We have both a proposal and a final Dissertation program.
+---
+
+## Page 65: Does it matter what stage of my proposal I am in, and how do I allocate the 12 weeks? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/does-it-matter-what-stage-of-my-proposal-i-am-in-and-how-do-i-allocate-the-12-weeks
+Description: The stage you are in doesn’t matter,If you feel stuck, discouraged, or unsure about how to move forward, this program is for you.If you are confident in your work and looking for a big push to get to the next phase, this program is for you.No matter what stage you are in, this program can help propel your work to the n
+---
+
+## Page 66: What areas will I be coached in during the program? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-areas-will-i-be-coached-in-during-the-program
+Description: During our 12 week programs, we will coach you through any of the following areas (meeting you where you are at): How to summarize the contents of your thesis to complete the introduction How to describe the background of the problem How to ensure alignment between the components of your work How to summarize the theor
+---
+
+## Page 67: What are the details of the program? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-are-the-details-of-the-program
+Description: Our 12 week Velocity Proposal Program or our 12 week Final Dissertation Velocity Program are designed to demystify the Dissertation process and help you mentally unblock so that you can write your proposal or final Dissertation more quickly, defend it with clarity and confidence, and move into the next phase of post-ac
+---
+
+## Page 68: Free Consultation | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/contact
+Description: We offer a free consultation to hard-working, ambitious doctoral students that intend to put in the work to make their degree a reality.
+
+# Free Consultation
+
+---
+
+## Page 69: News Section – DissertationPrep
+URL: https://dissertationprep.com/pages/dissertation-prep-launches-to-support-mentor-doctoral-students-from-candidate-to-completion
+Description: Blog | News Section Page
+---
+
+## Page 70: DNP Academy – DissertationPrep
+URL: https://dissertationprep.com/pages/dnp-academy-for-doctorate-in-nursing-practice-students
+Description: DNP Academy for Doctorate in Nursing Practice Students DNP Academy is here to support students through the development and evaluation of evidence-based practice quality improvement projects that are scholarly and rigorous. Quality improvement is not research, therefore there must be a definable gap in practice with dat
+
+# DNP Academy
+
+---
+
+## Page 71: Terms and Conditions – DissertationPrep
+URL: https://dissertationprep.com/pages/terms-and-conditions
+Description: Dissertation Prep (hereinafter “Company”) and its parent company Doctoraly LLC provides various services (hereinafter “Services”) through its website (hereinafter “Website”) at dissertationprep.com or another domain, and all services provided are governed by the terms specified herein (hereinafter “Terms of Service”). 
+
+# Terms and Conditions
+
+---
+
+## Page 72: Doctoral Study Participant Recruitment Assistance | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/products/doctoral-study-participant-recruitment-assistance
+Description: Get customized assistance in doctoral study participant recruitment. We develop strategies tailored to your research needs, conduct online advertising campaigns, and perform community outreach to connect with potential participants. Requires IRB approval.
+
+# Doctoral Study Participant Recruitment Assistance
+
+---
+
+## Page 73: Services For Students – DissertationPrep
+URL: https://dissertationprep.com/pages/packages-for-students
+Description: Services for students include: Quantitative Dissertation Expertise, Qualitative Dissertation Expertise, Coaching Phone Sessions, Editing, Writing and APA Service, The Velocity Proposal Program and The Final Dissertation Velocity Program.
+---
+
+## Page 74: Dissertation Editing, APA Format, Grammar – DissertationPrep
+URL: https://dissertationprep.com/products/dissertation-editing-apa-format-grammar
+Description: Stuck on grammar, APA format and editorial issues students face writing their Dissertations or doctoral studies? We offer solutions for dissertation editing based on your needs and budget. (We can edit masters theses, too!)
+
+# Dissertation Editing, APA Format, Grammar
+
+---
+
+## Page 75: Free Guide – DissertationPrep
+URL: https://dissertationprep.com/pages/free-guide
+Description: Download our free guide that reviews the 20 key steps to writing and finishing your proposal. Just click here to enter your email and download it instantly.
+
+# Free Guide
+
+---
+
+## Page 76: Do not sell my personal information – DissertationPrep
+URL: https://dissertationprep.com/pages/ccpa-opt-out
+Description: Your rights under the California Consumer Privacy Act The California Consumer Privacy Act (CCPA) provides you with rights regarding how your data or personal information is treated. Under the legislation, California residents can choose to opt out of the “sale” of their personal information to third parties. Based on t
+
+# Do not sell my personal information
+
+---
+
+## Page 77: Video Testimonial Submission – DissertationPrep
+URL: https://dissertationprep.com/pages/video-testimonial-submission
+Description: Submit your video testimony on this page. You will have a chance to review your recording before you submit it.
+
+# Video Testimonial Submission
+
+---
+
+## Page 78: Dissertation Prep Partners – DissertationPrep
+URL: https://dissertationprep.com/pages/dissertation-prep-partners
+Description: These fine companies and organizations are partners of Dissertation Prep.
+---
+
+## Page 79: Quantitative Dissertation Expertise – DissertationPrep
+URL: https://dissertationprep.com/products/quantitative-dissertation-expertise
+Description: Work with a quantitative statistics expert for a set number of hours to get you over a specific problem, statistical question or methods issue. Communicate using the method best for you. Save tuition and time with a dissertation mentor and coach for your statistical or quantitative work!
+
+# Quantitative Dissertation Expertise
+
+---
+
+## Page 80: Nicole Dhanraj, PhD | Motivational Octopus in Chief – DissertationPrep
+URL: https://dissertationprep.com/pages/nicole-dhanraj-phd-motivational-octopus-in-chief
+Description: I like to consider myself a multifaceted octopus! I am a skilled qualitative researcher. I have served as a Dissertation Chair and University Research Reviewer, lending my expertise to doctoral students in the development of quality and robust research projects across various industries.
+
+# Nicole Dhanraj, PhD \| Motivational Octopus in Chief
+
+---
+
+## Page 81: The Velocity Proposal Program | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/products/dissertation-proposal-accelerator-program
+Description: Designed to move you forward with your Dissertation work no matter what stage you are at in Chapters 1 through 3. Coaches will help you whether you’re still refining your research topic, writing your hypotheses or you’ve already written your first draft and need a critical review – we focus on progress!
+
+# Dissertation Proposal Accelerator Program
+
+---
+
+## Page 82: Who is this program for? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/who-is-this-program-for
+Description: This program is not for everyone, but if any of these apply to you, then you would be a good fit for one of our programs: You’ve been working on your Dissertation for months (maybe even years), but you still have not managed to gain committee consensus. You know you need to finish your Dissertation, but you keep tellin
+---
+
+## Page 83: Who is it not for? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/who-is-it-not-for
+Description: Our coaches understand the challenges of the Dissertation journey and will guide and encourage you just like the hundreds before you. However, we do not write your Dissertation for you, nor will we perform the statistical analysis on your data. If you are seeking someone to do the work for you, then our program is not 
+---
+
+## Page 84: Who will be your coach? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/who-will-be-your-coach
+Description: You will get to choose and be assigned to one coach who will work with you from start to finish. We maintain a small, dedicated, team of professors, Dissertation chairs, methodologists, executive coaches, and curriculum developers, who know the world of academia and how to successfully complete a doctoral Dissertation.
+---
+
+## Page 85: Thank You for Booking An Appointment With Us! – DissertationPrep
+URL: https://dissertationprep.com/pages/thank-you
+
+# Thank You for Booking An Appointment With Us!
+
+---
+
+## Page 86: Books – DissertationPrep
+URL: https://dissertationprep.com/pages/books
+Description: dissertation prep video gallery
+
+# Books
+
+---
+
+## Page 87: The Final Dissertation Velocity Program | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/products/the-dissertation-finish-line-program
+Description: A 12 week Dissertation mentoring program to get you from where you ARE to where you need to be on Chapters 4 and 5! Get moving with our doctoral mentors and hire a coach to guide you through your dissertation work! Live weekly chats with your coach, email and more. Get back on track!
+
+# The Dissertation Finish Line Program!
+
+---
+
+## Page 88: What makes this program so special? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/what-makes-this-program-so-special
+Description: We are not in the information selling business, or into selling courses with just more information.Most students who come to us have purchased courses, read books, signed up for webinars, and still are in the same spot. That’s the “info” industry.What our students need is hand-holding, and dedicated, timely, and compas
+---
+
+## Page 89: Important FAQs | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/important-faqs
+Description: The dissertation proposal is a comprehensive statement on the extent and nature of the student’s dissertation research interests. Through our years of experience, we have found that the proposal is the #1 obstacle doctoral students face when writing their dissertation.
+---
+
+## Page 90: How much does the VPP program cost? | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/pages/how-much-does-the-vpp-program-cost
+Description: Your Fee for the entire 12 weeks including everything above: $4,500 to be paid before the start of the program.
+---
+
+## Page 91: CV Writing for Candidates and Graduates – DissertationPrep
+URL: https://dissertationprep.com/products/cv-writing-for-candidates-and-graduates
+Description: Whether you have years of experience as an educator or are just starting out, it is critical that doctoral candidates and graduates have a professionally written curriculum vitae for their job search as online professors or in traditional academia. Our service helps pass through robo-screening.
+
+# CV Writing for Candidates and Graduates
+
+---
+
+## Page 92: Dissertation Oral Defense Prep! Info | Dissertation Prep – DissertationPrep
+URL: https://dissertationprep.com/products/oral-defense-prep
+Description: Prepare for your dissertation defense with our 2-hour coaching session, split into two parts. Enhance your presentation skills, build confidence, and receive personalized feedback for a successful defense. Get guidance on structuring your presentation and managing stress effectively.
+
+# Dissertation Oral Defense Prep!
+
+---
+
+## Page 93: About Us – DissertationPrep
+URL: https://dissertationprep.com/pages/about-us-1
+Description: Even the most capable doctoral students can get stuck. Despite universities’ best efforts to provide strong support and resources, many learners still face challenges completing their dissertations. At Dissertation Prep, we’ve seen this happen time and again—bright students stalling at ABD (All But Dissertation) becaus
+---
+
+## Page 94: Dani Babb PhD – DissertationPrep
+URL: https://dissertationprep.com/pages/dani-babb-phd
+Description: Message For Students Your browser does not support the video tag. Dani Babb PhD - Founder of Dissertation Prep&amp; 20+ Year Doctoral Mentor
+---
+
